@@ -1,9 +1,9 @@
 body {
   text-align: center;
+  font-family: Helvetica, sans-serif;
 }
 
 h1 {
-  font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
 
@@ -18,10 +18,27 @@ h1 {
 }
 
 #mainMenuList {
-  font-family: Helvetica;
   font-size: 18px;
 }
 
-.middleSection {
+.middleSection h1 {
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
 
+.middleSection h2, .bottomSection h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.middleSection p, .bottomSection p {
+  font-size: 14px;
+}
+
+.bottomSection h1 {
+  background-image: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
