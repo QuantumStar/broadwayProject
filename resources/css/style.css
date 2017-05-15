@@ -1,11 +1,11 @@
 nav a {
   color: gray;
   font-size: 24px;
-  text-decoration: underline;
   text-align: left;
+
 }
 
-body {
+h1, h2, p {
   text-align: center;
   font-family: Helvetica, sans-serif;
 }
@@ -26,6 +26,10 @@ h1 {
 
 #mainMenuList {
   font-size: 18px;
+}
+
+.middleSection {
+  text-align: center;
 }
 
 .middleSection h1 {
