@@ -21,6 +21,8 @@ h1 {
 
 .header {
   background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+
 }
 
 .header h1, .header p, .header a {
@@ -52,6 +54,8 @@ h1 {
 
 .bottomSection h1 {
   background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-position: center center;
   font-size: 23px;
   font-weight: bold;
   color: white;
