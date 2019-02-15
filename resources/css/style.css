@@ -13,10 +13,17 @@ h1, h2, h3, p {
   font-family: Helvetica, sans-serif;
 }
 
+p {
+  margin: 0px 0px 0px 0px;
+  padding-bottom: 18px;
+
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
-
+  margin: 0px 0px 0px 0px;
+  padding-bottom: 18px;
 }
 
 .header {
